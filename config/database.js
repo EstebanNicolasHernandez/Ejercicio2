@@ -3,8 +3,8 @@ const mysqlConnection = mysql.createConnection({
 
     host: "localhost",
     user: "root",
-    password: "ehernDB#01",
-    database: "TE2020_TP2",
+    password: "",
+    database: "te2020_tp2",
     multipleStatements: true,
 })
 

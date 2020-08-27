@@ -13,7 +13,7 @@ app.use("/producto", ProductoRoutes);
 // simple route
 app.get("/", (req, res) => {
     res.json({
-        message: "Welcome to Esteban Hernandez application.",
+        message: "Welcome to Francisco Villanueva application.",
         getProductos: "/listaProductos",
         getProducto: "/producto/:id",
         registrarProducto: "/registrarProducto",
