@@ -1,3 +1,3 @@
-TP 2 Tecnologías Emergentes - Ejercicio 1
+TP 2 Tecnologías Emergentes - Ejercicio 2
 
-Programar un servicio REST CRUD (Create, Read, Update & Delete) que implemente un servicio de datos tipo key / valuestore. Tanto el dato o “documento” a almacenar como la recuperación vienen en formato JSON. El servicio tiene que manejar metadata como un id único generado por el servicio, timestamp de creación, timestamp de actualización del registroy guardar cada documento bajo una categoría provista como parte de la URL. 
+ Desarrollar una servicio que permita mantener un catalogo de productos. Debe permitir listarlos, agregar, borrar y modificarlos. Los productos tienen que tener un campo de código, nombre, stock y precio. 
